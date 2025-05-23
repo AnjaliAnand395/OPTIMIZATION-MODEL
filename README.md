@@ -1,1 +1,14 @@
 # OPTIMIZATION-MODEL
+
+Company : CODTECH IT SOLUTIONS
+
+Name : ANJALI ANAND
+
+Intern ID : CT04DL899
+
+Domain : DATA SCIENCE
+
+Duration : 4 WEEKS
+
+Mentor : NEELA SANTOSH
+
