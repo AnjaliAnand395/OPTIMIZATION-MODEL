@@ -31,3 +31,7 @@ Mentor : NEELA SANTOSH
 ##Solution Approch: Formulate the problem as LP model, Define decision variables, objective functio, and the constraints. Then solve the LP using PuLP and the CBC solver. Also visualize the feasible region and highlight the optimal solution.
 
 ##Using Jupyter notebook the problem is solved.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c1efba6d-64da-46aa-98aa-3a2d3de70c60)
